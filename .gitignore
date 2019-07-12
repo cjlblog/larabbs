@@ -4,6 +4,11 @@
 /storage/*.key
 /vendor
 .env
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+.idea
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
